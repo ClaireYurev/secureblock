@@ -1,0 +1,1 @@
+g++ -o BlockExeFiles BlockExeFiles.cpp resource.o -static-libgcc -static-libstdc++ -lcomdlg32 -lole32 -luuid -lgdi32 -lcomctl32 -std=c++17
